@@ -4,7 +4,7 @@ These are the Kicad design files for the shift register display described in my 
 
 ## Versioning
 
-Untested release November 2019
+Working release January 2020
 
 ## Notes
 
